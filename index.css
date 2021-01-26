@@ -1,0 +1,50 @@
+html,body { 
+  background: url(hospital2.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+hr{
+	width: 25rem;
+	color: #198754;
+}
+.img{
+	width: 80px;
+	height: 80px;
+	padding: 0;
+	margin: 0;
+}
+
+.a{
+	text-decoration: none;
+	color: white;
+}
+
+.a:hover{
+	color: black;
+}
+
+.badge{
+	padding: 1rem 2rem;
+	font-size: 1rem;
+	background-color: #3892c7;
+	letter-spacing: 3px;
+
+}
+
+.btn{
+	background-color: #3892c7;
+	font-size: 1rem;
+	letter-spacing: 3px;
+	margin-left: 8rem;
+	border-radius: 10px;
+	border: 2px solid white;
+}
+
+.bg-img{
+max-width: 100%;
+height: auto;
+}
